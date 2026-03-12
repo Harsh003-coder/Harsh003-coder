@@ -4,12 +4,11 @@
 
 **Weaving code into innovative software solutions with a dash of creativity**
 
-enthusiastically exploring and learning different programming languages  
-Fun fact : "I am reading a book on anti-gravity. Impossible to putdown..like my code" 😎
+"Navigating the complexities of data structures and algorithms to build smarter, more efficient software."
+"Exploring the space where data tells a story and artificial intelligence brings it to life."
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_HANDLE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-dhonkariya?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnxEuE9JJSxe089c6Hzoxlw%3D%3D)
 
 ### 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
